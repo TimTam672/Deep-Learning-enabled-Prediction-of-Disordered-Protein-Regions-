@@ -57,3 +57,15 @@ High-dimensional protein language model representations used for training and te
 * **`Boosting_CVTuning_Smoothing.ipynb`**: Executes cross-validation parameter tuning for `XGBoost`, `LightGBM`, and `CatBoost` estimators, builds the hybrid Hard/Soft ensemble voting meta-models, and applies localized smoothing adjustments.
 
 ---
+
+## 👥 Team Members & Contributions
+
+| Member | Core Responsibilities & Contributions |
+| :--- | :--- |
+| **Wang Martin Shen** | • Developed the main project dataset (data acquisition, processing, and filtering).<br>• Designed and implemented the **Direct Sequence-to-Disorder** model.<br>• Engineered visualization methods for evaluation and model predictions.<br>• Authored Report Sections 2.1 & 2.2. |
+| **Tam Wing Ching** | • Designed and implemented the **ESM-2 and Tree-Based Hybrid Models** pipeline.<br>• Handled optimization (Focal Loss with TV regularization, smoothing outputs, reschedulers, hyperparameter tuning, and threshold searching).<br>• Authored Report Sections 2.3–2.6. |
+| **Teo Xin Yi** | • Contributed to project brainstorming and topic formulation.<br>• Sourced relevant target biological databases.<br>• Conducted initial dataset cleaning.<br>• Authored Report Sections 1.2 (Experimental Characterisation of IDPs) & 1.3 (Limitations of Experimental Methods). |
+| **Wang Qian Wen** | • Contributed to project brainstorming and topic formulation.<br>• Sourced relevant target biological databases.<br>• Conducted initial dataset cleaning.<br>• Authored Report Sections 1 (Introduction) & 1.1 (Background of IDPs). |
+| **Teng Jia Han** | • Conducted dataset cleaning and validation adjustments.<br>• Authored Report Section 3 (Challenges and Future Outlook). |
+
+---
