@@ -1,1 +1,2 @@
 trained_esm2_embeddings.npz filter=lfs diff=lfs merge=lfs -text
+trained_esm2_embeddings_external.npz filter=lfs diff=lfs merge=lfs -text
