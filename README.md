@@ -16,7 +16,6 @@ Developed and optimized advanced deep learning and hybrid machine learning model
 
 ## 📊 Workflow Architecture
 
-*(Optional: If you saved Figure 9 from your Word document as `workflow.png` in this repository, you can display it here)*
 ![Workflow Architecture](https://github.com/TimTam672/Deep-Learning-enabled-Prediction-of-Disordered-Protein-Regions-/blob/30442bd1d2440b19f43be487d44d1208214af945/Method1_Workflow.png)
 
 ---
