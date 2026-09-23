@@ -16,9 +16,17 @@ Developed and optimized advanced deep learning and hybrid machine learning model
 
 ## 📊 Workflow Architecture
 
+### Method 1
+
 ![Workflow Architecture](https://github.com/TimTam672/Deep-Learning-enabled-Prediction-of-Disordered-Protein-Regions-/blob/30442bd1d2440b19f43be487d44d1208214af945/Method1_Workflow.png)
 
+### Method 2
+![Workflow Architecture](https://github.com/TimTam672/Deep-Learning-enabled-Prediction-of-Disordered-Protein-Regions-/blob/30442bd1d2440b19f43be487d44d1208214af945/Method2_Workflow.png)
+
 ---
+
+##  Model Performance
+![Performance](https://github.com/TimTam672/Deep-Learning-enabled-Prediction-of-Disordered-Protein-Regions-/blob/2eaa193d5bf1f1f36df56c27be68633908c4942c/Summarization%20of%20Model%20Performance.pngg)
 
 ## 📂 Repository File Structure
 
