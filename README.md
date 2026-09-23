@@ -28,6 +28,14 @@ Developed and optimized advanced deep learning and hybrid machine learning model
 ##  Model Performance
 ![Performance](https://github.com/TimTam672/Deep-Learning-enabled-Prediction-of-Disordered-Protein-Regions-/blob/2eaa193d5bf1f1f36df56c27be68633908c4942c/Summarization%20of%20Model%20Performance.png)
 
+##  Prediction vs. True Profiles for Specific Sequences(Top Chart is Method 1, Below Chart is Method 2)
+![Example1](https://github.com/TimTam672/Deep-Learning-enabled-Prediction-of-Disordered-Protein-Regions-/blob/0bf1fa5ab440750539d7b3c4c0f68b5d40326ee6/Example1.png)
+
+![Example2](https://github.com/TimTam672/Deep-Learning-enabled-Prediction-of-Disordered-Protein-Regions-/blob/0bf1fa5ab440750539d7b3c4c0f68b5d40326ee6/Example2.png)
+
+![Example3](https://github.com/TimTam672/Deep-Learning-enabled-Prediction-of-Disordered-Protein-Regions-/blob/0bf1fa5ab440750539d7b3c4c0f68b5d40326ee6/Example3.png)
+
+
 ## 📂 Repository File Structure
 
 ### 📑 Documentation & Deliverables
