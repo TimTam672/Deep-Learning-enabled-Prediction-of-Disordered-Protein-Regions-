@@ -53,6 +53,7 @@ High-dimensional protein language model representations used for training and te
 * *Note on Training Embeddings*: The raw `trained_esm2_embeddings.npz` training array exceeds GitHub LFS individual file boundaries (~2.5GB). You can regenerate these local features locally using the evaluation notebook below.
 
 ### ⚙️ Source Notebooks
+* **`Method1_Notebook.ipynb`**: Evaluates the standalone Deep Learning architecture. It implements the combined 3x Convolutional Neural Network (CNN) and 5x Multi-Head Attention (MHA) framework. *Note: This notebook represents a baseline development version utilizing an earlier iteration of the dataset with fewer records.*
 * **`ESM35M.ipynb`**: Handles feature extraction, logs ESM-2 protein language model evaluations, and serializes high-dimensional embeddings.
 * **`Boosting_CVTuning_Smoothing.ipynb`**: Executes cross-validation parameter tuning for `XGBoost`, `LightGBM`, and `CatBoost` estimators, builds the hybrid Hard/Soft ensemble voting meta-models, and applies localized smoothing adjustments.
 
@@ -62,8 +63,8 @@ High-dimensional protein language model representations used for training and te
 
 | Member | Core Responsibilities & Contributions |
 | :--- | :--- |
-| **Wang Martin Shen** | • Developed the main project dataset (data acquisition, processing, and filtering).<br>• Designed and implemented the **Direct Sequence-to-Disorder** model.<br>• Engineered visualization methods for evaluation and model predictions.<br>• Authored Report Sections 2.1 & 2.2. |
-| **Tam Wing Ching** | • Designed and implemented the **ESM-2 and Tree-Based Hybrid Models** pipeline.<br>• Handled optimization (Focal Loss with TV regularization, smoothing outputs, reschedulers, hyperparameter tuning, and threshold searching).<br>• Authored Report Sections 2.3–2.6. |
+| **Wang Martin Shen** | • Developed the main project dataset (data acquisition, processing, and filtering).<br>• Primary designer and initial implementer of the **Method 1 (Direct Sequence-to-Disorder)** architecture.<br>• Engineered visualization methods for evaluation and model predictions.<br>• Authored Report Sections 2.1 & 2.2. |
+| **Tam Wing Ching** | • Assisted in co-designing, training for the **Method 1 (Direct Sequence-to-Disorder)** model.<br>• Designed and implemented the **Method 2 (ESM-2 and Tree-Based Hybrid Models)** pipeline.<br>• Engineered full optimization frameworks (Focal Loss with TV regularization, output smoothing, learning reschedulers, hyperparameter tuning, and threshold searching).<br>• Authored Report Sections 2.3–2.6. |
 | **Teo Xin Yi** | • Contributed to project brainstorming and topic formulation.<br>• Sourced relevant target biological databases.<br>• Conducted initial dataset cleaning.<br>• Authored Report Sections 1.2 (Experimental Characterisation of IDPs) & 1.3 (Limitations of Experimental Methods). |
 | **Wang Qian Wen** | • Contributed to project brainstorming and topic formulation.<br>• Sourced relevant target biological databases.<br>• Conducted initial dataset cleaning.<br>• Authored Report Sections 1 (Introduction) & 1.1 (Background of IDPs). |
 | **Teng Jia Han** | • Conducted dataset cleaning and validation adjustments.<br>• Authored Report Section 3 (Challenges and Future Outlook). |
