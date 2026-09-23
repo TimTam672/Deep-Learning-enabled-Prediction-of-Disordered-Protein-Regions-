@@ -26,7 +26,7 @@ Developed and optimized advanced deep learning and hybrid machine learning model
 ---
 
 ##  Model Performance
-![Performance](https://github.com/TimTam672/Deep-Learning-enabled-Prediction-of-Disordered-Protein-Regions-/blob/2eaa193d5bf1f1f36df56c27be68633908c4942c/Summarization%20of%20Model%20Performance.pngg)
+![Performance](https://github.com/TimTam672/Deep-Learning-enabled-Prediction-of-Disordered-Protein-Regions-/blob/2eaa193d5bf1f1f36df56c27be68633908c4942c/Summarization%20of%20Model%20Performance.png)
 
 ## 📂 Repository File Structure
 
